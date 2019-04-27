@@ -1,0 +1,14 @@
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\bin\Debug\netcoreapp2.1\QuizWebApi.deps.json
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\bin\Debug\netcoreapp2.1\QuizWebApi.runtimeconfig.json
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\bin\Debug\netcoreapp2.1\QuizWebApi.runtimeconfig.dev.json
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\bin\Debug\netcoreapp2.1\QuizWebApi.dll
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.csprojAssemblyReference.cache
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.csproj.CoreCompileInputs.cache
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.RazorAssemblyInfo.cache
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.RazorAssemblyInfo.cs
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.AssemblyInfoInputs.cache
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.AssemblyInfo.cs
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.RazorTargetAssemblyInfo.cache
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\bin\Debug\netcoreapp2.1\QuizWebApi.pdb
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.dll
+D:\DanskeIT-Adapter\AdaptersQuize\QuizWebApi\obj\Debug\netcoreapp2.1\QuizWebApi.pdb
